@@ -1,2 +1,2 @@
 # Basik
-An BASIC-like programming language.
+Basik is an Visual Basic .NET-like programming language.
